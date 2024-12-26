@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tous mes projets et mon CV sont disponibles sur : [lien site web](lien site web)
 
-- 📫 Comment me contacter **badrjaid2005@gmail.com**
+- 📫 Comment me contacter **badrjaid2005@gmail.com / +33 7 83 88 90 61**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
