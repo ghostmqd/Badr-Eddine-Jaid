@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostmqd" alt="ghostmqd" /></a> </p>
 
+- 🤝 Je suis à la recherche d’une alternance en ingénierie informatique, où je pourrai mettre en pratique mes compétences techniques, approfondir mes connaissances et contribuer activement à des projets innovants. **en ingénierie informatique, où je pourrai mettre en pratique mes compétences techniques, approfondir mes connaissances et contribuer activement à des projets innovants.**
+
 - 👨‍💻 Tous mes projets et mon CV sont disponibles sur : [lien site web](lien site web)
 
 - 📫 Comment me contacter **badrjaid2005@gmail.com**
