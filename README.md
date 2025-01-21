@@ -7,7 +7,7 @@
 
 - 🤝 Je suis à la recherche d’une alternance **en ingénierie informatique, où je pourrai mettre en pratique mes compétences techniques, approfondir mes connaissances et contribuer activement à des projets innovants.**
 
-- 👨‍💻 Tous mes projets et mon CV sont disponibles sur : [lien site web](lien site web)
+- 👨‍💻 Tous mes projets et mon CV sont disponibles sur : https://badr-eddine-jaid-portfolio.web.app/
 
 - 📫 Comment me contacter **badrjaid2005@gmail.com / +33 7 83 88 90 61**
 
